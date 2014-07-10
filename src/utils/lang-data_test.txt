@@ -1,0 +1,4 @@
+aka	ak	Akan	akan	Akan-Sprache
+afr	af	Afrikaans	afrikaans	Afrikaans
+chi (B), zho (T)	zh	Chinese	chinois	Chinesisch
+chu	cu	Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
